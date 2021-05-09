@@ -2,7 +2,7 @@
 Analysis of employees at Pewlett Hackard using SQL.
 
 ## Resources
-Data Source: Employe_Database_Challenge.sql
+Data Source: [Employe_Database_Challenge.sql](https://github.com/monsecc01/Pewlett-Hackard-Challenge/blob/869a2634fe4dd4c4ee698cabe3a5d1fc38c74a6a/Queries/Employee_Database_challenge.sql)
 
 Software: PostgresSQL 11
 
